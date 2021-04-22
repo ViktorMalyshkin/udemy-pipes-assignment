@@ -1,4 +1,5 @@
-# MyFirstApp
+# Udemy - Pipes Assignment
+## Section 17: Using Pipes to Transform Output
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
